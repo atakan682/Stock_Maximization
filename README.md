@@ -1,11 +1,5 @@
-# Project335_StockMaximization
-These program for finding the maximize the number of stocks an investor may purchase, given a limited amount of available financial resources.
-
-## Member
-
-- Mustafa Atakan Tan (mtan17@csu.fullerton.edu)
-- Ahyeon Jang (dkgus504@csu.fullerton.edu)
-- Gabriel Codina (GabrielCodina@csu.fullerton.edu)
+StockMaximization
+Given a limited amount of available financial resources, this program is for finding the maximum number of stocks an investor may purchase.
 
 ## How to Run the Program
 
